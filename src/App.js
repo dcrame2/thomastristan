@@ -19,7 +19,7 @@ function App() {
       />
 
       <Timeline
-        title="2018: Age 1"
+        title="2020: Age 1"
         img1="/1/photo1.jpeg"
         img2="/1/photo2.jpeg"
         img3="/1/photo3.jpeg"
@@ -28,7 +28,7 @@ function App() {
         color="pink"
       />
       <Timeline
-        title="2019: Age 2"
+        title="2021: Age 2"
         img2="/2/photo1.jpeg"
         img1="/2/photo2.jpeg"
         img4="/2/photo3.jpeg"
@@ -37,7 +37,7 @@ function App() {
         color="#fff"
       />
       <Timeline
-        title="2020: Age 3"
+        title="2022: Age 3"
         img1="/3/photo1.jpeg"
         img2="/3/photo2.jpeg"
         img3="/3/photo3.jpeg"

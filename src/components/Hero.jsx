@@ -23,6 +23,7 @@ const Title = styled.h1`
   color: #fff;
   font-family: "Zen Dots", cursive;
   letter-spacing: 2px;
+  text-align: center;
 
   @media (max-width: 767px) {
     font-size: 1.6rem;
@@ -34,6 +35,7 @@ const TitleEyebrow = styled.p`
   letter-spacing: 2px;
   font-size: 1.7rem;
   color: #fff;
+  text-align: center;
 
   @media (max-width: 767px) {
     font-size: 0.9rem;
@@ -44,11 +46,12 @@ const Quote = styled.h3`
   font-size: 2rem;
   color: #fff;
   font-family: "Zen Dots", cursive;
+  text-align: center;
 
   @media (max-width: 767px) {
     font-size: 0.9rem;
     margin: 0 20px;
-    text-align: center;
+
     letter-spacing: 1.3px;
   }
 `;
